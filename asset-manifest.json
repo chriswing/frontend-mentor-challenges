@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor-challenges/qr-code-component/static/css/main.44595851.css",
+    "main.js": "/frontend-mentor-challenges/qr-code-component/static/js/main.429fd024.js",
+    "static/js/787.cc137750.chunk.js": "/frontend-mentor-challenges/qr-code-component/static/js/787.cc137750.chunk.js",
+    "index.html": "/frontend-mentor-challenges/qr-code-component/index.html",
+    "main.44595851.css.map": "/frontend-mentor-challenges/qr-code-component/static/css/main.44595851.css.map",
+    "main.429fd024.js.map": "/frontend-mentor-challenges/qr-code-component/static/js/main.429fd024.js.map",
+    "787.cc137750.chunk.js.map": "/frontend-mentor-challenges/qr-code-component/static/js/787.cc137750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44595851.css",
+    "static/js/main.429fd024.js"
+  ]
+}
